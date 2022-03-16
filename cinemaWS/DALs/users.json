@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "_id": "61dd83636b3325da3f75ce34",
+      "First Name": "Or",
+      "Last Name": "Koren",
+      "Created Date": "2022-01-13T18:33:06.054Z",
+      "SessionTimeOut": 60,
+      "Role": "Admin"
+    },
+    {
+      "_id": "61e070622843453240a1c689",
+      "First Name": "Jimmy",
+      "Last Name": "Fitzgerald",
+      "Created Date": "2022-01-13T18:33:06.054Z",
+      "SessionTimeOut": 60,
+      "Role": "Viewer"
+    },
+    {
+      "_id": "61fd73351d4c2ea65c412ad7",
+      "First Name": "avi",
+      "Last Name": "cohen",
+      "Created Date": "2022-02-04T18:40:53.118Z",
+      "SessionTimeOut": 60,
+      "Role": "Viewer"
+    },
+    {
+      "_id": "61fd734d1a591ce0b9417520",
+      "First Name": "popo",
+      "Last Name": "xoxo",
+      "Created Date": "2022-02-04T18:41:17.213Z",
+      "SessionTimeOut": 45,
+      "Role": "Viewer"
+    },
+    {
+      "_id": "61fe51f006c4d7c17ac3f7f6",
+      "First Name": "Donny",
+      "Last Name": "Brasko",
+      "Created Date": "2022-02-05T10:31:12.761Z",
+      "SessionTimeOut": 30,
+      "Role": "Viewer"
+    },
+    {
+      "_id": "61feda9351ac9afa502b46cb",
+      "First Name": "Popo",
+      "Last Name": "Madur",
+      "Created Date": "2022-02-05T20:14:11.171Z",
+      "SessionTimeOut": 60,
+      "Role": "Viewer"
+    },
+    {
+      "_id": "620290d0cb02873f197cbc5e",
+      "First Name": "zizi",
+      "Last Name": "zipo",
+      "Created Date": "2022-02-08T15:48:32.028Z",
+      "SessionTimeOut": 20,
+      "Role": "Viewer"
+    }
+  ]
+}
